@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\migrations\\20240829071608_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\migrations\\20240829071608_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\migrations\\20240829065017_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\migrations\\20240829065017_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\myappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\myappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|c:\\users\\mari700468\\source\\repos\\myappapi\\myappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291FA1E1-C87E-4FE1-AA8E-1E0F4C92513A}|MyappAPI\\MyappAPI.csproj|solutionrelative:myappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "MyappAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:57:57.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240829065017_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Migrations\\20240829065017_First Migration.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Migrations\\20240829065017_First Migration.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Migrations\\20240829065017_First Migration.cs",
+              "RelativeToolTip": "MyappAPI\\Migrations\\20240829065017_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:27:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240829071608_Second Migration.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Migrations\\20240829071608_Second Migration.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Migrations\\20240829071608_Second Migration.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Migrations\\20240829071608_Second Migration.cs",
+              "RelativeToolTip": "MyappAPI\\Migrations\\20240829071608_Second Migration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:27:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyappAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:27:31.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MyappAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:22:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\Occupation.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Models\\Occupation.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\Occupation.cs",
+              "RelativeToolTip": "MyappAPI\\Models\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:10:40.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Program.cs",
+              "RelativeToolTip": "MyappAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:20:44.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyappAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\appsettings.json",
+              "RelativeToolTip": "MyappAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T06:25:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyappAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\MyappAPI.csproj",
+              "RelativeDocumentMoniker": "MyappAPI\\MyappAPI.csproj",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\MyappAPI.csproj",
+              "RelativeToolTip": "MyappAPI\\MyappAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T05:57:30.348Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\User.cs",
+              "RelativeToolTip": "MyappAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:38:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "MyappAPI\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\MyappAPI\\MyappAPI\\Models\\UserContext.cs",
+              "RelativeToolTip": "MyappAPI\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:29:21.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
